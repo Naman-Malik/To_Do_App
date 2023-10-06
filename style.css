@@ -181,7 +181,7 @@
 /* ---------------------------------------------- */
 @media screen and (max-width: 425px) {
     .color-pallete{
-        flex-basis: 40%;
+        flex-basis: 50%;
     }
     .ticket{
         display: block;
@@ -196,10 +196,11 @@
         width: 20%;
     }
 }
+ 
 
 @media screen and (max-width: 768px) {
     .color-pallete{
-        flex-basis: 29%;
+        flex-basis: 49%;
     }
     .date{
         width: 20%;
