@@ -180,6 +180,11 @@
 
 /* ---------------------------------------------- */
 @media screen and (max-width: 425px) {
+    .modal{
+        height: 11rem;
+        width: 90vw;
+        left: calc((100vw - 26rem) / 2);
+    }
     .color-pallete{
         flex-basis: 50%;
     }
@@ -199,6 +204,11 @@
  
 
 @media screen and (max-width: 768px) {
+    .modal{
+        height: 11rem;
+        width: 25rem;
+        left: calc((100vw - 26rem) / 2);
+    }
     .color-pallete{
         flex-basis: 49%;
     }
